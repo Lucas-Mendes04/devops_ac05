@@ -1,5 +1,0 @@
-SELECT
-    Nome AS Medico,
-    Especialidade AS Especialidade
-FROM Medico
-WHERE Especialidade = 'Dentista'
